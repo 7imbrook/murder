@@ -1,2 +1,12 @@
-pkg/*
-.DS_Store
+*.pyc
+*.pyo
+*.DS_Store
+*.log
+*.swp
+#*#
+Thumbs.db
+/*.egg-info/
+/build/
+/dist/
+/.idea/
+/.venv/

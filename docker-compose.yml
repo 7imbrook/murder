@@ -1,0 +1,6 @@
+# REQUIRED VERSION 1.2 >
+
+node:
+  extends:
+    file: common.yml
+    service: node
