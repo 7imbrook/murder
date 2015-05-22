@@ -1,9 +1,4 @@
 Murder
 -----
 
-A better implementation of twitters murder (aka up to date)
-
-### Install
-Dependancies
-- libtorrent
-- storjtorrent 0.1.2
+A better implementation of twitters murder with pluggable distrobution sources such as docker registry.
