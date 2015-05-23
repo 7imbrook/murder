@@ -1,4 +1,4 @@
 Murder
 -----
 
-A better implementation of twitters murder with pluggable distrobution sources such as docker registry.
+A better implementation of Twitter's murder with pluggable distribution sources such as Docker Registry.
